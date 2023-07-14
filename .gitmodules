@@ -1,0 +1,9 @@
+[submodule "pack/chaoren/start/vim-wordmotion"]
+	path = pack/chaoren/start/vim-wordmotion
+	url = https://github.com/chaoren/vim-wordmotion.git
+[submodule "pack/tpope/start/vim-sleuth"]
+	path = pack/tpope/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
+[submodule "pack/ervandew/start/supertab"]
+	path = pack/ervandew/start/supertab
+	url = https://github.com/ervandew/supertab.git
