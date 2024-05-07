@@ -123,3 +123,6 @@ let g:tex_flavor = 'latex'
 
 "" disable search-as-you-type
 :set noincsearch
+
+"" treat hyphen as word character
+set iskeyword+=-
